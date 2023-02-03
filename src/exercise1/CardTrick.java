@@ -55,7 +55,7 @@ public class CardTrick {
 
         System.out.println("My hobbies:");
         System.out.println("-- Music");
-        System.out.println("-- Cooking");
+        System.out.println("-- Cooking and eating");
         System.out.println("-- Reading/Watching TV");
         System.out.println("-- Riding my motorcycle");
 
