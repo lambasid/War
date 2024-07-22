@@ -39,14 +39,14 @@ This project was developed as part of an exercise to practice object-oriented pr
 
 ## Usage
 
-    1. **Run the CardTrick class:**
-        This will fill a hand of 7 cards with random card objects and ask the user to pick a card.
+    1. Run the CardTrick class:
+        - This will fill a hand of 7 cards with random card objects and ask the user to pick a card.
 
-    2. **Enter your card details:**
-        You will be prompted to enter the value (1-13) and suit (Hearts, Diamonds, Spades, Clubs) of your chosen card.
+    2. Enter your card details:
+       - You will be prompted to enter the value (1-13) and suit (Hearts, Diamonds, Spades, Clubs) of your chosen card.
 
-    3. **Check if you guessed correctly:**
-        The program will search the hand for a match and print a congratulatory message along with personal information if the guess is correct.
+    3. Check if you guessed correctly:
+        - The program will search the hand for a match and print a congratulatory message along with personal information if the guess is correct.
 
 ## Contributing
 
